@@ -11,7 +11,7 @@ https://data.cityofnewyork.us/City-Government/Monthly-Flash-Report-indicators/2u
 3. Run the Google Colab Notebook: `(https://colab.research.google.com/github/WilliamHallPortfolio/ACS_Juvenile_Justice_Project/blob/main/ACS%20Flash%20Report%20Project.ipynb)`
 
 ## Usage
-Run the `ACS Flash Report Project.ipynb` to load data, preprocess it, and train predictive models.
+Click the Open in Colab button in `ACS Flash Report Project.ipynb` to load data, preprocess it, and train predictive models.
 
 ## Project Structure
 - `data/` - Contains datasets used in the analysis.
@@ -24,5 +24,5 @@ Feel free to submit issues or pull requests. Contributions are welcome!
 This project is licensed under the MIT License.
 
 ## Contact
-For questions, contact William Hall at william.hall@example.com.
+For questions, contact William Hall at `w.hallds2024@gmail.com`
 
