@@ -6,9 +6,9 @@ Dataset and data definitions can be found here:
 https://data.cityofnewyork.us/City-Government/Monthly-Flash-Report-indicators/2ubh-v9er/about_data
 <br>
 ## Installation
-1. Clone the repository: `git clone https://github.com/WilliamHallPortfolio/ACS_Juvenile_Justice_Project.git'
+1. Clone the repository: `git clone https://github.com/WilliamHallPortfolio/ACS_Juvenile_Justice_Project.git
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the Jupyter Notebook: `jupyter notebook`
+3. Run the Google Colab Notebook: `(https://colab.research.google.com/github/WilliamHallPortfolio/ACS_Juvenile_Justice_Project/blob/main/ACS%20Flash%20Report%20Project.ipynb)`
 
 ## Usage
 Run the `ACS Flash Report Project.ipynb` to load data, preprocess it, and train predictive models.
