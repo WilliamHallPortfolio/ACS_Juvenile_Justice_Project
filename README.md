@@ -5,9 +5,24 @@ This project focuses on Juvenile Justice and detention rates of the youth residi
 Dataset and data definitions can be found here:
 https://data.cityofnewyork.us/City-Government/Monthly-Flash-Report-indicators/2ubh-v9er/about_data
 <br>
-First we import the following libraries: <br>
-![image](https://github.com/user-attachments/assets/8a1b2aa8-5f18-4407-871e-dc22cf0761e2) <br>
-<br>
-After importing the dataset provided from the City of New York, we can see that the shape of the dataset is 86 rows and 115 columns:
-![image](https://github.com/user-attachments/assets/39a3cec5-558c-4487-aad2-664459c33530)
+## Installation
+1. Clone the repository: `git clone https://github.com/WilliamHallPortfolio/ACS_Juvenile_Justice_Project.git'
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the Jupyter Notebook: `jupyter notebook`
+
+## Usage
+Run the `ACS Flash Report Project.ipynb` to load data, preprocess it, and train predictive models.
+
+## Project Structure
+- `data/` - Contains datasets used in the analysis.
+- `ACS Flash Report Project.ipynb` - Main analysis notebook.
+
+## Contributing
+Feel free to submit issues or pull requests. Contributions are welcome!
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For questions, contact William Hall at william.hall@example.com.
 
